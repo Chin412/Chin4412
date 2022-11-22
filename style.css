@@ -1,0 +1,52 @@
+h2{
+    color: #FFFFFF;
+}
+p{
+    color: aquamarine;
+    text-align: center;
+    background-color: brown
+}
+.title{
+    color: darkorange;
+    text-align: right;
+    font-size: large;
+}
+body{
+    background-image: url("a.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+}
+#teacher{
+    font-size: 50px;
+    color: blue;
+    text-align: center;
+    background-color: blueviolet;
+    padding: 50px;
+}
+p.error{
+    color: red;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+p.success{
+    color: aqua;
+    font-size: 20px;
+    font-weight: bolder;   
+}
+
+#box{
+    width: 500px;
+    height: 100px;
+    background-color: deeppink;
+    text-align: center;
+
+}
+img{
+    border-radius: 50%;
+    width: 200px;
+    height: 300px;
+    object-fit: none;
+    opacity: 0.5;
+}
